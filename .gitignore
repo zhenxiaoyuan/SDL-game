@@ -2,5 +2,5 @@
 
 Debug/
 
-SDL-game/*
-!SDL-game/*.cpp
+SDL-game/Debug/*
+SDL-game/*vcxproj*
