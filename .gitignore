@@ -1,0 +1,8 @@
+.vs/
+
+Debug/
+!Debug/*.dll
+!Debug/*.exe
+
+SDL-game/*
+!SDL-game/*.cpp
